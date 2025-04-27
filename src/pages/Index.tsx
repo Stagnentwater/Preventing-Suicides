@@ -42,7 +42,7 @@ const Index = () => {
                   size="lg" 
                   className="border-white text-white hover:bg-white/10"
                 >
-                  <a href="#about">
+                  <a href="#about" >
                     Learn More
                   </a>
                 </Button>
