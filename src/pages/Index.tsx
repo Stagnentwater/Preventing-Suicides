@@ -49,8 +49,8 @@ const Index = () => {
               </div>
             </div>
             <div className="md:w-1/2 md:pl-12">
-              <img 
-                src="https://ionnews.mu/wp-content/uploads/2021/02/No-to-suicide.jpg"
+              <img  
+                 src="https://ionnews.mu/wp-content/uploads/2021/02/No-to-suicide.jpg"
                 alt="Mental health support" 
                 className="rounded-lg shadow-lg w-full"
               />
